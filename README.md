@@ -1,5 +1,9 @@
 # family
 
+## datastore(GQL)
+ - SELECT * FROM `t_family` where name = 'XXXX'
+ - 删除不能用GQL，只能在web页面删
+
 ## main program
  - main.py
  - run on gcp cloudfunctions
