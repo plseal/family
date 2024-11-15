@@ -2,6 +2,7 @@
 
 ## datastore(GQL)
  - SELECT * FROM `t_family` where name = 'XXXX'
+ - GQL is a read-only language
  - 删除不能用GQL，只能在web页面删
 
 ## main program
